@@ -1,0 +1,21 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ethjs-util": "^0.1.1",
+    "@types/node": "^17.0.25",
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.4.17",
+    "type-util": "^0.1.5",
+    "util": "^0.12.4",
+    "utility-types": "^3.10.0",
+    "web3": "^1.7.3"
+  }
+}
